@@ -1,0 +1,13 @@
+@charset "utf-8";
+@import "./support/demobackofficewidget-variables.scss";
+
+.yw-labelstyle
+{
+	color: $demobackoffice-label-text-color;
+}
+
+.demobackoffice-container {
+	background: $demobackoffice-container-background;
+	font-family: $demobackoffice-container-font-family;
+	font-size: $demobackoffice-container-font-size;
+}

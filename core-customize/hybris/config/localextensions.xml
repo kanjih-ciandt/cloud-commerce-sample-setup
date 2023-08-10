@@ -246,6 +246,8 @@
 	  <extension name= 'xyformsservices' />
 	  <extension name= 'xyformsweb' />
 
+	  <extension name='demobackoffice'/>
+
 <!-- accelerator + addons are legacy, do not use anymore; just configured to enable end-to-end showcase -->
 	  <extension name= 'ordermanagementaddon' />
 
@@ -257,9 +259,9 @@
 
 <!-- For more information where to find those extensions: -->
 <!-- https://launchpad.support.sap.com/#/notes/2817992 -->
-    <extension name='azurecloudhotfolder' />
-    <extension name='cloudcommons' />
-    <extension name='cloudhotfolder' />
+    <!-- <extension name='azurecloudhotfolder' /> -->
+    <!-- <extension name='cloudcommons' /> -->
+    <!-- <extension name='cloudhotfolder' /> -->
 
 
 <!-- Configuring Required Extensions and AddOns for SAP Commerce integration with SAP Cloud Platform Integration -->
